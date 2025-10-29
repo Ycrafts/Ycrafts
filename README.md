@@ -9,9 +9,9 @@
 
 ## 🚀 About Me
 
-As a pre-final year Software Engineering student at Bahir Dar University, I have a deep-seated passion for solving complex problems and building things that last. I truly enjoy the challenge of designing and playing with data, architecting database schemas that are both efficient and scalable.
+As a final year Software Engineering student at Bahir Dar University, I have a deep-seated passion for solving complex problems and building things that last. I truly enjoy the challenge of designing and playing with data, architecting database schemas that are both efficient and scalable.
 
-I recently completed a remote backend internship at Prodigy Infotech, where I gained valuable real-world experience and received a certificate for my contributions ([view certificate](Yonatan%20Assefa%20Mekonnen_Prodigy%20Infotech%20Certificate.pdf)).
+I completed a remote backend internship at Prodigy Infotech, where I gained valuable real-world experience and received a certificate for my contributions ([view certificate](Yonatan%20Assefa%20Mekonnen_Prodigy%20Infotech%20Certificate.pdf)).
 
 While I am proficient across a wide variety of programming languages and frameworks, my greatest strength lies in collaboration. I excel in team environments where I can contribute to a shared vision and learn from others. I am now eager to bring my technical skills and collaborative spirit to the software industry and begin tackling real-world challenges.
 
@@ -43,7 +43,7 @@ While I am proficient across a wide variety of programming languages and framewo
 
 - Version Control: Git & GitHub
 - Frontend: JavaScript, React, Bootstrap
-- Backend: Python, Django & DRF, Java, Spring Boot, PHP, Laravel
+- Backend: Python, Django & DRF, Java, Spring Boot, PHP, Laravel, Ruby on Rails
 - Mobile: Flutter
 - Databases: PostgreSQL, MS SQL Server
 - Other: C++, REST APIs
@@ -62,15 +62,11 @@ While I am proficient across a wide variety of programming languages and framewo
     </td>
   </tr>
   <tr>
-    <td><b>AACEAC</b></td>
+    <td><b>LogForge</b></td>
     <td>
-    An employee tracking system for the Addis Ababa
-    City Ethics and Anti-corruption Commission
-    (AACEAC). It provides a comprehensive system for
-    managing employees, their roles, and their positions
-    within the commission's hierarchical organization.
+    LogForge is a cross-framework audit logging package that records create, update, delete, restore, and force_delete events with diffs, actor, IP, and request       context. It offers DB or queue-based writers (Celery), flexible include/exclude and redaction rules, pruning/archiving commands, and an optional dashboard UI.     Available on PyPI and Packagist.
     <br>
-      <a href="https://github.com/Ycrafts/AACEAC">GitHub</a>
+      <a href="https://github.com/Ycrafts/Logforge">GitHub</a>
     </td>
   </tr>
   <tr>
